@@ -1,11 +1,9 @@
 **🏆 Trophy**
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Sayaucup)
-<a align="center" href="">
-<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Sayaucup&count_private=true&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayaucup&layout=compact&hide=html,css" alt="languages" height="165">
-</p>
-</a>
+
 
 <details>
     <summary>Coding Statistics</summary> 
